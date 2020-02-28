@@ -6,9 +6,9 @@ A simple page transition UI made using NeuCard package
 
 <table>
   <tr>
-    <td>Events Page</td>
-     <td>GIF</td>
-     <td>Calender Page</td>
+    <td>Courses Page</td>
+     <td>Undergraduate</td>
+     <td>Postgraduate Page</td>
   </tr>
   <tr>
     <td><img src="screenshots/Screenshot_1582887914.png" width=270 height=480></td>
